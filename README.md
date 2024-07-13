@@ -1,2 +1,2 @@
-# convertidor-de-monedas
-challenge
+# convertidor de monedas
+challenge de alura 
